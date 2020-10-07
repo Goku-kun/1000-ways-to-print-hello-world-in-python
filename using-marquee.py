@@ -3,7 +3,7 @@ import time
 
 def main():
     program = animate()
-    program.data = input("Enter string : ") + " "
+    program.data = "Hello World!!!" + " "
     program.width = int(input("Enter width : "))
     program.animate()
 
