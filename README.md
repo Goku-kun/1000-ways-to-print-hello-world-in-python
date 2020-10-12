@@ -8,7 +8,7 @@ This is a public repository where the aim is to print "Hello, World!" in all dif
 1. name the file as "using-[name of your implementation].py" and make a different branch for it with the same name without .py extention
 2. Create a pull request from this branch.
 3. Go through the existing codes in the repository and if you find your strategy isn't there, you can create a pull request.
-4. If you've got a optmized version of the already existing code, you can create a pull request.
+4. If you've got a optimized version of the already existing code, you can create a pull request.
 
 
 ## Contributing
