@@ -1,6 +1,9 @@
 # 1000-ways-to-print-hello-world-in-python
 This is a public repository where the aim is to print "Hello, World!" in all different possible ways.
 
+![Count](https://img.shields.io/badge/Count-37-success)
+
+
 ## Guidelines to create PULL REQUESTS
 1. name the file as "using-[name of your implementation].py" and make a different branch for it with the same name without .py extention
 2. Create a pull request from this branch.
