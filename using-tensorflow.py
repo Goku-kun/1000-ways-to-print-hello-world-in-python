@@ -1,7 +1,7 @@
 from __future__ import print_function
 
-import tensorflow as tf
-
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 # Create a Constant op
 hello = tf.constant('Hello, World!')
 
