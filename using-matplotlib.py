@@ -1,3 +1,5 @@
+# Install matplolib by "pip install -U matplotlib"
+
 import matplotlib.pyplot as plt
 fig = plt.figure()
 fig.suptitle("Hello world!")
