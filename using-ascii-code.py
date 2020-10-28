@@ -5,3 +5,10 @@ for i in ascii:
   s = s + chr(i)
 
 print(s)
+
+# going from string version to an ascii version
+helloworld = 'hello world'
+
+for letter in helloworld:
+    print(ord(letter), '-', chr(ord(letter)) )
+
