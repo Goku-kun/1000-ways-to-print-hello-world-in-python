@@ -1,7 +1,7 @@
 # 1000-ways-to-print-hello-world-in-python
 <img src="https://user-images.githubusercontent.com/63253596/104130147-d0b72380-5334-11eb-881b-52971dfb671a.png" width="500" height="300">
 
-![Count](https://img.shields.io/badge/Count-43-success?style=plastic&logo=appveyor)
+![File count](https://tokei.rs/b1/github/Goku-kun/1000-ways-to-print-hello-world-in-python?category=files)
 
 
 ## Guidelines to create PULL REQUESTS
