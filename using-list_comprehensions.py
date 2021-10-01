@@ -1,2 +1,3 @@
-list_to_perform_comprehension = ["Hello","World"]
-print(*[letter for letter in list_to_perform_comprehension])
+greetings = ["Good Morning", "Greetings", "Hello, World!"]
+hello_world = [ x for greet x greetings if x=="Hello, World!"]
+print(hello_world[0])
