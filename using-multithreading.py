@@ -11,11 +11,11 @@ if __name__ == "__main__":
         t.append(threading.Thread(target=print_helloworld, args=(index,)))
 
     for index in range(0,number_of_threads):
-        # starting thread 1
+        # starting threads
         t[index].start()
 
     for index in range(0,number_of_threads):
-        # wait until thread 1 is completely executed
+        # wait until each thread is completely executed
         t[index].join()
 
     # All threads completely executed
