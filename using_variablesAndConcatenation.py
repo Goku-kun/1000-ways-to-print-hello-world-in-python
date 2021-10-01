@@ -1,0 +1,10 @@
+h = "H"
+e = "e"
+l = "l"
+o = "o"
+w = "w"
+r = "r"
+d = "d"
+exclaim = "!"
+space = " "
+print(h+e+l+l+o+space+w+o+r+l+d+exclaim)
