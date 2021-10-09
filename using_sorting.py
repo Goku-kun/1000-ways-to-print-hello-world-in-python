@@ -17,13 +17,10 @@ dict = {
 #scrambling a random order, could also take user input
 alpha = ["" for x in range (11)]
 for i in range(1,12):
-    try:
+    a = random.randint(0,10)
+    while alpha[a] != "":
         a = random.randint(0,10)
-        while alpha[a] != "":
-            a = random.randint(0,10)
-    except:
-        print(a)
-        raise
+
     alpha[a] = i
 
 #now I have a scrambled order with numbers mapped to alphabets using dictionary, we sort this now
