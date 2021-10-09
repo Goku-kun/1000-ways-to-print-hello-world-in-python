@@ -20,6 +20,7 @@ for i in range(1,12):
     a = random.randint(0,10)
     while alpha[a] != "":
         a = random.randint(0,10)
+
     alpha[a] = i
 
 #now I have a scrambled order with numbers mapped to alphabets using dictionary, we sort this now
