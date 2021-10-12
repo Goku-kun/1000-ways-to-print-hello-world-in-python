@@ -7,6 +7,7 @@ inputdict = {
     str(['e', 1]) : 1,  #the value of the dict elements corresponds to the number of times the respective character repeats itself at a particular point in the world
     str(['l', 1]) : 2,
     str(['o', 1]) : 1,
+    str([',', 1]) : 1,
     str([' ', 1]) : 1,
     str(['W', 1]) : 1,
     str(['o', 2]) : 1,
