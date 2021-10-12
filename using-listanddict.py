@@ -1,6 +1,6 @@
 import sys
 
-output = []
+
 
 inputdict = {
     str(['h', 1]) : 1,
