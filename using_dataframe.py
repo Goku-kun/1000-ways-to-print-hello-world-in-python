@@ -1,0 +1,15 @@
+import pandas as pd
+df = pd.DataFrame()
+df = df.append(pd.DataFrame({'letter': 'h', 'position': 1}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': 'e', 'position': 2}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': 'o', 'position': 8}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': 'w', 'position': 7}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': 'o', 'position': 5}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': ' ', 'position': 6}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': 'd', 'position': 11}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': 'r', 'position': 9}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': 'l', 'position': 10}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': 'l', 'position': 3}, index=[0]), ignore_index=True)
+df = df.append(pd.DataFrame({'letter': 'l', 'position': 4}, index=[0]), ignore_index=True)
+
+print(*df.sort_values('position')['letter'].values)
