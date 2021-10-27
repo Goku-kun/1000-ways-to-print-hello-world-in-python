@@ -93,4 +93,5 @@ class SpotifyAPI(object):
 client_id = '9f31c31d0a4c40178302ff79ccfc59df'
 client_secret = '87ed19e8b607442e9a871ec4f183a499'
 spotify = SpotifyAPI(client_id, client_secret)
-print(''.join(x for x in str(spotify.spotify_track('https://open.spotify.com/track/21AUdfi6fLFDp9JuNcHsfS')[0]) if x not in [',']))
+# print(''.join(x for x in str(spotify.spotify_track('https://open.spotify.com/track/21AUdfi6fLFDp9JuNcHsfS')[0]) if x not in [',']))
+print(str(spotify.spotify_track('https://open.spotify.com/track/21AUdfi6fLFDp9JuNcHsfS')[0])+'!')
