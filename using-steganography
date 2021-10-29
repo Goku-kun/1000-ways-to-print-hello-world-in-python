@@ -1,0 +1,32 @@
+# Print 'Hello, World!' by extracting the characters from an image using steganography
+
+from PIL import Image
+import string 
+import requests
+from io import BytesIO
+
+r = requests.get('https://raw.githubusercontent.com/im-NL/nl.github.io/master/encoded.png')     # fetch encoded image from my github
+im = Image.open(BytesIO(r.content)) # open image and make it a pillow image object
+
+pixelMap = im.load()
+a = 0 
+alphabet = string.ascii_uppercase
+
+word = ''
+
+img = Image.new(im.mode, im.size)
+pixelsNew = img.load()
+number_of_chars = pixelMap[777, 777]
+for height in range(0, 1920, 10):
+    for width in range(0, 1080, 10):
+
+        letter, g, b, a = pixelMap[height, width]   # get the RGBA values of the pixels 
+        try:
+            if letter == 69:
+                word += ' '
+            else:
+                word += alphabet[letter]   # add the letter encoded in the pixel to a string
+        except:
+            print(word)
+
+print(', '.join(word[:number_of_chars[0]].title().split()) + '!')   # turn HELLO WORLD (the output) to Hello, World! using join(), split() and title()
