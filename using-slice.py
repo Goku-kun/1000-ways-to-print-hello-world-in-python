@@ -1,2 +1,2 @@
-text = 'hello world lorem ipsum'
-print(text[slice(11)])
+text = 'Hello, World! lorem ipsum'
+print(text[slice(13)])
