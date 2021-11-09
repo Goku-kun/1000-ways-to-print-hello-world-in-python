@@ -8,6 +8,7 @@ schedule = [
     at(minutes = 1, seconds = 12),
     at(minutes = 1, seconds = 41),
     at(minutes = 1, seconds = 48),
+    at(minutes = 1, seconds = 48),
     at(minutes = 1, seconds = 51),
     at(minutes = 0, seconds = 44),
     at(minutes = 0, seconds = 32),
