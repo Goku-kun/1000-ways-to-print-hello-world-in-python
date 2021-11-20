@@ -11,7 +11,7 @@ net = nn.Sequential(nn.Linear(128, 64),
                     nn.Linear(32, 128))
 criterion = nn.CrossEntropyLoss()
 optimizer = torch.optim.Adam(net.parameters(), lr=0.001)
-for i in range(34):
+for i in range(34): # minimum number of iteration to get correct output
     optimizer.zero_grad()
     output = net(input)
     loss = criterion(output, target)
