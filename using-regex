@@ -1,0 +1,7 @@
+import re
+
+html = '<title>Hello, World!</title>'
+regex = '<title>(.*)</title>'
+result = re.search(regex, html).group(1)
+
+print(result)
