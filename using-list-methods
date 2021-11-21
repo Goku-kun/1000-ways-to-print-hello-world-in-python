@@ -1,0 +1,9 @@
+# In python we gt many options to combine elements of list into single string.
+
+arr = ['H','e','l','l','o',' ','W','o','r','l','d']   # initiating the list with elements
+
+print("".join(arr))  # using join method with double quote
+print(''.join(arr))  # using join method with single quote
+print(*arr,sep='')   # using * operator with sep attribute
+print(''.join(arr))  # using join method
+print(''.join(map(str, arr)))  # using join and map methods to convert into single string
