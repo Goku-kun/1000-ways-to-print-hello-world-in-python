@@ -3,9 +3,10 @@
 
 <img src="https://tokei.rs/b1/github/Goku-kun/1000-ways-to-print-hello-world-in-python?category=files" width="85">
 
-We hit the first checkpoint by having more than 50 different ways to print "Hello, World!" in python. ✨📈 
+~~We hit the first checkpoint by having more than 50 different ways to print "Hello, World!" in python.~~ ✨📈
+We have hit the second checkpoint by having more than 100 different ways to print "Hell, World!" in python as well as having 50 stars on the repository. 🥂💫
 
-Thank you to all the contributors and learners. 🧙‍♂️
+Thank you to all the contributors and learners for showing your love to this idea. 🧙‍♂️
 
 
 # Guidelines
