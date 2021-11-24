@@ -84,21 +84,3 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-
-
-
-
-
-## Contributing
-
-Your contributions mean a lot to us. Here is a live Hall-of-Fame for this repo:
-
-[![](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/images/0)](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/links/0)
-[![](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/images/1)](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/links/1)
-[![](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/images/2)](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/links/2)
-[![](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/images/3)](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/links/3)
-[![](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/images/4)](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/links/4)
-[![](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/images/5)](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/links/5)
-[![](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/images/6)](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/links/6)
-[![](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/images/7)](https://sourcerer.io/fame/Goku-kun/Goku-kun/1000-ways-to-print-hello-world-in-python/links/7)
-
