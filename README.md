@@ -1,8 +1,6 @@
 # 1000-ways-to-print-hello-world-in-python
 <img src="https://user-images.githubusercontent.com/63253596/104130147-d0b72380-5334-11eb-881b-52971dfb671a.png" width="500" height="300">
 
-<img src="https://tokei.rs/b1/github/Goku-kun/1000-ways-to-print-hello-world-in-python?category=files" width="85">
-
 ~~We hit the first checkpoint by having more than 50 different ways to print "Hello, World!" in python.~~ ✨📈
 
 We have hit the second checkpoint by having more than 100 different ways to print "Hello, World!" in python. 🥂💫
