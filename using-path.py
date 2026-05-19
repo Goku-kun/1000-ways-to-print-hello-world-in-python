@@ -1,0 +1,21 @@
+
+path = [
+    72, 
+    29, 
+    7, 
+    0, 
+    3,
+    -67, 
+    -12, 
+    55, 
+    24, 
+    3, 
+    -6, 
+    -8, 
+    -67 
+]
+
+position=0
+for i in path:
+    position+=i
+    print(chr(position), end='')
